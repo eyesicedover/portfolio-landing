@@ -1,12 +1,16 @@
 body {
   color: white;
-  background-color: #303233;
+  background-color: #535759;
   font-size: 175%;
 }
 
 ol li {
   list-style: inside;
   list-style-type: decimal;
+}
+.container {
+  background-color: #303233;
+  height: 100%;
 }
 
 .jumbotron {
