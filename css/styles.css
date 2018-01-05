@@ -10,17 +10,21 @@ ol li {
 }
 .container {
   background-color: #303233;
-  height: 100%;
 }
 
 .jumbotron {
   text-align: center;
   background: linear-gradient(to bottom right, #4286f4, #5bd9ef);
-  color: #303233;
+  color: #000000;
+  text-shadow: 0 0 5px #ffffff, 0 0 5px #535759;
 }
 
 .nav {
   padding-top: 20px;
+}
+
+.proj-list {
+  padding-left: 12px;
 }
 
 #dog {
