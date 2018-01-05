@@ -2,14 +2,17 @@ body {
   color: white;
   background-color: #535759;
   font-size: 175%;
+  font-weight: 300;
+}
+
+.container {
+  background-color: #303233;
+  min-height: 100%;
 }
 
 ol li {
   list-style: inside;
   list-style-type: decimal;
-}
-.container {
-  background-color: #303233;
 }
 
 .jumbotron {
@@ -24,7 +27,10 @@ ol li {
 }
 
 .proj-list {
-  padding-left: 12px;
+  margin-left: 12px;
+}
+.proj-list p {
+  font-weight: 150;
 }
 
 #dog {
