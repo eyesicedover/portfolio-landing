@@ -19,6 +19,10 @@ ol li {
   padding-top: 20px;
 }
 
-.proj-list {
+#dog {
+  float: left;
+}
 
+#hiking {
+  float: right;
 }
