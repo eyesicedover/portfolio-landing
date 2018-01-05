@@ -4,6 +4,11 @@ body {
   font-size: 175%;
 }
 
+ol li {
+  list-style: inside;
+  list-style-type: decimal;
+}
+
 .jumbotron {
   text-align: center;
   background: linear-gradient(to bottom right, #4286f4, #5bd9ef);
@@ -12,10 +17,6 @@ body {
 
 .nav {
   padding-top: 20px;
-}
-
-.intro {
-
 }
 
 .proj-list {
