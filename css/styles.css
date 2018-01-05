@@ -28,3 +28,7 @@ body {
 .navbar ul li {
     margin-bottom: 20px;
 }
+
+.proj-list {
+  margin-left: 200px;
+}
