@@ -25,9 +25,13 @@ ol li {
 .nav {
   padding-top: 20px;
 }
+.panel-body {
+  background-color: #303233;
+}
 
 .proj-list {
   margin-left: 12px;
+  margin-right: 12px;
 }
 .proj-list p {
   font-weight: 150;
