@@ -8,6 +8,8 @@
 
 Website designed as a portfolio for my past coding projects. Consists of 3 pages: index homepage with a section about me, projects page with a list and link to my projects github repos, and a contact page listing ways to reach me.
 
+gh-pages Link: https://eyesicedover.github.io/portfolio-landing/
+
 ## Setup/Installation Requirements
 
 * Clone this repository.
